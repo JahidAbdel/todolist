@@ -1,43 +1,17 @@
-📝 To-Do List — HTML & JavaScript
+To-Do list réalisée en HTML et JavaScript
 
-Application To-Do List réalisée en HTML, CSS et JavaScript.
+Le JavaScript a servi à coder la sauvegarde automatique des données, même en cas de fermeture de la page web. Il a ensuite été utilisé pour ajouter les tâches dans la liste, modifier l’apparence d’une tâche lorsqu’on clique dessus pour la cocher, et enfin pour créer la croix permettant de supprimer une tâche complète.
 
-Le JavaScript permet notamment :
 
-la sauvegarde automatique des tâches grâce au localStorage (les données restent même si la page est fermée) ;
+//Pour télécharger la To-Do app:
+  Cliquer en haut sur le bouton vert \<Code\> et appuyer sur "Download ZIP"
 
-l’ajout de nouvelles tâches ;
 
-la modification visuelle d’une tâche lorsqu’elle est cochée ;
-
-la création d’un bouton croix permettant de supprimer une tâche.
-
-📥 Télécharger l’application
-
-En haut du repo, cliquer sur le bouton vert Code
-
-Puis sélectionner Download ZIP
-
-⚙️ Installer un raccourci sur le bureau (Windows)
-
-Extraire le fichier todolist-main.zip dans :
-C:\Users\<Votre utilisateur>\Documents
-
-Ouvrir le dossier extrait dans Documents.
-
-Faire un clic droit sur index.html → Créer un raccourci.
-
-Déplacer ce raccourci sur le bureau.
-
-Changer l’icône du raccourci :
-
-Clic droit → Propriétés
-
-Changer d’icône
-
-Sélectionner le fichier :
-C:\Users\<Votre utilisateur>\Documents\todolist-main\iconeRaccourci.ico
-
-Renommer le raccourci en “To-Do App”.
-
-(Facultatif) Supprimer le dossier todolist-main de Téléchargements.
+// Pour créer un raccourci sur le bureau :
+1) Extraire le dossier todolist-main.zip dans "Documents" (C:\Users\\"Votre utilisateur"\Documents)
+2) Puis aller dans "Documents" (C:\Users\\"Votre utilisateur"\Documents) et ouvrir le dossier extrait.
+3) Créer un raccourci du fichier index.html -->  Faire un clic droit sur "index.html" puis sélectionner "Créer un raccourci".
+4) Déplacer le raccourci sur le bureau
+5) Changer l’icône du raccourci --> Faire un clic droit sur le raccourci, aller dans "Propriétés", cliquer sur "Changer d’icône", puis sélectionner le fichier iconeRaccourci présent dans le dossier extrait (C:\Users\\"Votre utilisateur"\Documents\todolist-main\iconeRaccourci.ico").
+6) Enfin renommer le raccourci "To-Do App"
+7) Facultatif: Supprimer le dosier todolist-main dans "Téléchargements"

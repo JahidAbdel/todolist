@@ -1,18 +1,25 @@
 <!DOCTYPE html> 
 
-<html>
+<html lang="fr">
 
 <head>
 <meta name="viewport" content = "width=device-width, initial-scale=1">
-<title>TO-Do List</title>
+<title>To-Do List</title>
 <link rel="stylesheet" href="style.css"> 
 </head>
 
-</body>
-
-
-
-
+<body>
+<div class="container">
+    <div class="todoapp">
+        <h2>To-Do List <img src="icone.png"></h2>
+        <div class="ecrire">
+            <input type="text" id="inputBox" placeholder="Tâche à faire...">
+            <button onclick="ajoutTache()">Ajouter</button>
+        </div>
+        <ul id="listeTaches"></ul>
+    </div>
+</div>
+<script src="script.js"></script>
 </body>
 
 </html>

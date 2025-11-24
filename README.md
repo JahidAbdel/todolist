@@ -4,7 +4,7 @@ Le JavaScript a servi à coder la sauvegarde automatique des données, même en 
 
 
 //Pour télécharger la To-Do app:
-  Cliquer en haut sur le bouton vert \<Code\> et appuyer sur "Download .ZIP"
+  Cliquer en haut sur le bouton vert \<Code\> et appuyer sur "Download ZIP"
 
 
 // Pour créer un raccourci sur le bureau :

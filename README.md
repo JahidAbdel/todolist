@@ -2,8 +2,10 @@ To-Do list réalisée en HTML et JavaScript
 
 Le JavaScript a servi à coder la sauvegarde automatique des données, même en cas de fermeture de la page web. Il a ensuite été utilisé pour ajouter les tâches dans la liste, modifier l’apparence d’une tâche lorsqu’on clique dessus pour la cocher, et enfin pour créer la croix permettant de supprimer une tâche complète.
 
+
 //Pour télécharger la To-Do app:
   Cliquer en haut sur le bouton vert \<Code\> et appuyer sur "Download .ZIP"
+
 
 // Pour créer un raccourci sur le bureau :
 1) Extraire le dossier todolist-main.zip dans "Documents" (C:\Users\\"Votre utilisateur"\Documents)

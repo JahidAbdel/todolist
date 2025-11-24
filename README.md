@@ -13,4 +13,5 @@ Le JavaScript a servi à coder la sauvegarde automatique des données, même en 
 3) Créer un raccourci du fichier index.html -->  Faire un clic droit sur "index.html" puis sélectionner "Créer un raccourci".
 4) Déplacer le raccourci sur le bureau
 5) Changer l’icône du raccourci --> Faire un clic droit sur le raccourci, aller dans "Propriétés", cliquer sur "Changer d’icône", puis sélectionner le fichier iconeRaccourci présent dans le dossier extrait (C:\Users\\"Votre utilisateur"\Documents\todolist-main\iconeRaccourci.ico").
-6) Enfin renommer le raccourci "To-Do App" 
+6) Enfin renommer le raccourci "To-Do App"
+7) Facultatif: Supprimer le dosier todolist-main dans "Téléchargements"

@@ -31,6 +31,12 @@ listeTaches.addEventListener("click", function(f) {
     }
 }, false);
 
+inputBox.addEventListener("keypress", function(e) {
+    if (e.key === "Enter") {
+        ajoutTache();
+    }
+});
+
 function sauvegarde(){
     localStorage.setItem("donnes", listeTaches.innerHTML);
 }

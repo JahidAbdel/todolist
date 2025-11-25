@@ -76,7 +76,7 @@ ul li::before{
     height: 20px;
     width: 20px;
     border-radius: 50%;
-    background-image: url(uncheckedcircle.png);
+    background-image: url(images/uncheckedcircle.png);
     background-size: cover;
     background-position: center;
     top: 12px;
@@ -89,7 +89,7 @@ ul li.checked{
 }
 
 ul li.checked::before{
-    background-image: url(checked.png);
+    background-image: url(images/checked.png);
 }
 
 ul li croix{
